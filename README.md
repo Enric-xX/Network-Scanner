@@ -11,7 +11,7 @@ Escáner de red local creado con Python. Detecta todos los dispositivos conectad
 - Informe detallado en archivo .txt
 
 ## Instalación
-Ejecuta el archivo `instalar.bat` para instalar todas las dependencias automáticamente.
+Ejecuta el archivo `Instalador de Librerias.bat` para instalar todas las dependencias automáticamente.
 
 ## Uso
 1. Ejecuta `obtener_ip.bat` para saber la IP de tu router
