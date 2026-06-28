@@ -400,13 +400,5 @@ def main():
                 f.write(f"  Puertos:         Ninguno\n")
             f.write("\n")
         
-        f.write("=" * 70 + "\n")
-        f.write("  Herramienta creada por Enric - 13 años\n")
-        f.write("  Primer proyecto de ciberseguridad\n")
-        f.write("=" * 70 + "\n")
-    
-    print(f"\n[+] Informe detallado guardado: {nombre_archivo}")
-    print("[+] ¡Listo para enseñárselo a Joan!")
-
 if __name__ == "__main__":
     main()
